@@ -14,13 +14,13 @@ The raw dataset contains the following:
 
 ## Methods
 - Unit standardization
-- - Conversion of Height and Weight to metric units
+  - Conversion of Height and Weight to metric units
 - Feature engineering
-- - Calculating `BMI`
-- - Categorizing `Age` to `AgeGroup`
+  - Calculating `BMI`
+  - Categorizing `Age` to `AgeGroup`
 - Encoding
-- - Binary encoding `Frailty` to `Frailty_binary`
-- - One hot encoding `AgeGroup`
+  - Binary encoding `Frailty` to `Frailty_binary`
+  - One hot encoding `AgeGroup`
 - EDA
-- - Computed summary table containing `mean`/`median`/`std` for numeric columns saved to `reports/findings.md`
-- - Quantify relation of strength ↔ frailty: computed as correlation between `Grip_kg` and `Frailty_binary` = **-0.47**
+  - Computed summary table containing `mean`/`median`/`std` for numeric columns saved to `reports/findings.md`
+  - Quantify relation of strength ↔ frailty: computed as correlation between `Grip_kg` and `Frailty_binary` = **-0.47**
