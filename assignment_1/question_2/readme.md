@@ -19,6 +19,7 @@ The raw dataset contains the following:
 **5 Visualizations were created:**
 
 Visualizations can be found in `reports/`
+
 **V1**: Gender boxplots (math vs reading)
 
 **V2**: Test prep impact on math boxplots
