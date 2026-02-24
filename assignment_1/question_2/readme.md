@@ -4,6 +4,8 @@ Principles of Data Science Assignment 1 Question 2
 ## Project Overview
 This project provides exploratory data analysis on the StudentsPerformance Dataset.
 
+The final written analysis can be found in `report.pdf`.
+
 ## Dataset
 The raw dataset contains the following:
 - gender: (categorical) `'female'`, `'male'`
