@@ -20,7 +20,11 @@ The raw dataset contains the following:
 
 Visualizations can be found in `reports/`
 **V1**: Gender boxplots (math vs reading)
+
 **V2**: Test prep impact on math boxplots
+
 **V3**: Lunch type and average performance grouped bar chart
+
 **V4**: Subject correlations heatmap
+
 **V5**: Math vs reading with trend lines by test prep scatter plot
