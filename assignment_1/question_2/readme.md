@@ -1,4 +1,4 @@
-# Frailty Dataset Analysis
+# Student Performance Visualizations
 Principles of Data Science Assignment 1 Question 2
 
 ## Project Overview
