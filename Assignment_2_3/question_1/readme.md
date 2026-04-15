@@ -2,7 +2,7 @@
 Principles of Data Science Assignment 2/3 Question 1
 
 ## Project Overview
-This project explores the Used Cars Dataset and demonstrates data cleaning. Reports and analysis are also conducted.
+This project explores the Used Cars Dataset and demonstrates data cleaning, imputation, and encoding. Reports and analysis are also conducted.
 
 ## Dataset
 The raw dataset contains the following:
