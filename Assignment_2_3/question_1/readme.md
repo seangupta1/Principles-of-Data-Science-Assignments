@@ -40,3 +40,8 @@ The raw dataset contains the following:
     - Contains Lakh units
     - Removed Lakh units and converted datatype to flaot
     - Many values missing so feature dropped.
+
+**New Feature Created**
+- Tells how efficient the engine is.
+
+`Mileage_To_Engine_Ratio` = `Mileage` / `Engine`

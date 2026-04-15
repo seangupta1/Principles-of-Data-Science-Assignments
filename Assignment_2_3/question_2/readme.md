@@ -2,7 +2,7 @@
 Principles of Data Science Assignment 2/3 Question 2
 
 ## Project Overview
-This project explores the Diabetes Dataset and demonstrates data cleaning, random sapling, and bootstrapping. Reports and analysis are also conducted.
+This project explores the Diabetes Dataset and demonstrates data cleaning, random sampling, and bootstrapping. Reports and analysis are also conducted.
 
 ## Dataset
 The raw dataset contains the following:
