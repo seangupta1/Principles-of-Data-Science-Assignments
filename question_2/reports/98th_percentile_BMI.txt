@@ -1,2 +1,0 @@
-98th Percentile of BMI in Sample: 49.07
-98th Percentile of BMI in Population: 47.00
