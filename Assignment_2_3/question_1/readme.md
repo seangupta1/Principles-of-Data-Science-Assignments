@@ -21,7 +21,7 @@ The raw dataset contains the following:
 - `Price`: float
 
 ## Methods
-**Unit standardization**
+1. Unit standardization
   - `Mileage`
     - String format with number and units
     - Contains both kmpl and km/kg units
@@ -41,7 +41,10 @@ The raw dataset contains the following:
     - Removed Lakh units and converted datatype to flaot
     - Many values missing so feature dropped.
 
-**New Feature Created**
-- Tells how efficient the engine is.
+2. Imputation was performed on the following features: `Mileage`, `Engine`, `Power`, and `Seats`.
 
-`Mileage_To_Engine_Ratio` = `Mileage` / `Engine`
+3. One hot encoding performed on the following features: `Fuel_Type` and`Transmission`.
+
+4. New Feature Created
+- Tells how efficient the engine is.
+- `Mileage_To_Engine_Ratio` = `Mileage` / `Engine`
